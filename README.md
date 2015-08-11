@@ -1,0 +1,1 @@
+This public repository reflects my contributions to the Diobox company repo. Included is the commit history my work on the AngularJS front end for our company's platform. No code is shown due to company policy
